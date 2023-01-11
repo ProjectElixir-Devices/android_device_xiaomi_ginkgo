@@ -127,6 +127,7 @@ vendor.camera.not.cts.apk=1
 vendor.camera.not.ctsverify.apk=1
 vendor.camera.vidhance.eis.enabled=1
 vendor.camera.vidhanceEis.force=1
+vendor.camera.aux.packagelist=org.lineageos.aperture
 vendor.vidhance.video.enabled=1
 
 # Crypto
