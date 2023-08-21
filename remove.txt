@@ -1,0 +1,5 @@
+vendor/xiaomi/ginkgo
+kernel/xiaomi/ginkgo
+device/xiaomi/ginkgo
+vendor/miuicamera
+hardware/qcom-caf/sm8150/display
