@@ -14,6 +14,7 @@ vendor.bluetooth.soc=cherokee
 persist.sys.sf.disable_blurs=1
 
 # Camera
+persist.enable_depthsensor_workaround=true
 vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera
 persist.vendor.camera.privapp.list=org.codeaurora.snapcam,com.android.camera
 
