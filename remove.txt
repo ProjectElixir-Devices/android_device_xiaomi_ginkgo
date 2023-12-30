@@ -1,0 +1,3 @@
+vendor/xiaomi/ginkgo
+kernel/xiaomi/ginkgo
+device/xiaomi/ginkgo
