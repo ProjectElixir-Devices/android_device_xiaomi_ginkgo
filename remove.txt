@@ -2,3 +2,4 @@ vendor/xiaomi/ginkgo
 kernel/xiaomi/ginkgo
 device/xiaomi/ginkgo
 hardware/qcom-caf/sm8150/display
+vendor/qcom/opensource/vibrator
